@@ -3,8 +3,16 @@
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    font-size: 18px;
 }
 
 h1{
     text-align: center;
+}
+
+.container{
+    color: rgba(51, 51, 133, 0.738);
+    background-color: rgba(0, 255, 213, 0.452);
+    border-radius: 8px;
+    border-spacing: 50px;
 }
